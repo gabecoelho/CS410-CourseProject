@@ -1,4 +1,14 @@
-# Sentiment Analysis of Yelp Business Review Data
+# Sentiment Analysis of Business Review Data
+
+## Overview
+
+This main goal of this project is to be a model for sentiment analysis of businesses reviews.
+
+The code uses a plethora of libraries such as pandas, numpy, seaborn, matplotlib, and nltk.
+
+The notebook itself has comments and explains each section of the data analysis plus the sentiment analysis run at the and.
+
+The data used in this project is the [Yelp Dataset](https://www.yelp.com/dataset) since it has various different businesses and a large number of reviews. This model can be used with other datasets, provided it's given a string input as shown in the notebook.
 
 ## Running the software
  
