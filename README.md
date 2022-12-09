@@ -1,5 +1,10 @@
 # Sentiment Analysis of Business Review Data
 
+1. [Jupyter Notebook File](https://github.com/gabecoelho/CS410-CourseProject/blob/main/CS410_Sentiment_Analysis_Course_Project.ipynb)
+2. [Presentation Recording](https://docs.google.com/presentation/d/1xAuboYx93P0a600pVxqTmiDdf9BCh89e/edit?usp=share_link&ouid=115479068473060337192&rtpof=true&sd=true)
+  (Please download the power point and play the presentation under the SlideShow tab).
+4. Read below for documentation (additional documentation for each step in the Jupyter notebook)
+
 ## Overview
 
 This main goal of this project is to be a model for sentiment analysis of businesses reviews.
@@ -33,6 +38,10 @@ There are two options for this step. Once inside the `Colab` notebook, proceed w
 ## Evaluation
 
 You may find the model evaluation at the second to last snippet, labeled `Analysis` under section #8. Sentiment Analysis.
+
+## Troubleshooting
+
+Please see the Jupyter notebook file for an example of a successful run and its equivalent output.
 
 ## Resources
 https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20
