@@ -1,8 +1,9 @@
 # Sentiment Analysis of Business Review Data
 
 1. [Jupyter Notebook File](https://github.com/gabecoelho/CS410-CourseProject/blob/main/CS410_Sentiment_Analysis_Course_Project.ipynb)
-2. [Presentation Recording](https://docs.google.com/presentation/d/1xAuboYx93P0a600pVxqTmiDdf9BCh89e/edit?usp=share_link&ouid=115479068473060337192&rtpof=true&sd=true)
+2. [Presentation .PPTX with Recording](https://docs.google.com/presentation/d/1xAuboYx93P0a600pVxqTmiDdf9BCh89e/edit?usp=share_link&ouid=115479068473060337192&rtpof=true&sd=true)
   (Please download the power point and play the presentation under the SlideShow tab).
+3. [Presentation MP4](https://drive.google.com/file/d/1pcwLUsszljCYRloX0Gsc3Q21PYi3tOzW/view?usp=share_link)
 4. Read below for documentation (additional documentation for each step in the Jupyter notebook)
 
 ## Overview
